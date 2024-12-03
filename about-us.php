@@ -15,7 +15,7 @@
 			<div class="container-fluid inner-offset">
 				<div class="hgroup text-center wow zoomIn" data-wow-delay="0.3s">
 					<h2>FOR ALL YOUR LOGISTICS NEEDS</h2>
-					<h1>ZEEL LOGISTICS -    Service Delivery with Diligence </h1>
+					<h1>VINAY LOGISTICS -    Service Delivery with Diligence </h1>
 				</div>            
 				<ul class="nav nav-tabs wow fadeIn" data-wow-delay="0.3s" id="myTab">
 					<li class="active"><a href="#tab1" data-toggle="tab">WHY CHOOSE US</a></li>
