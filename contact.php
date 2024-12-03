@@ -1,6 +1,6 @@
 <?php include 'head.php' ?>
 	<body data-scrolling-animations="true">
-        <div class="sp-body">
+        <div class="sp-body"> 
 			
 <?php include 'header.php' ?>	
 			<div class="bg-image page-title">
